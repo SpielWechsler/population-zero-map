@@ -46,7 +46,7 @@ const markers = {
         "Salt": {
             icon: "salt.png",
             size: [30,40],
-            coords: [[4500,3000],[4500,4000]]
+            coords: [[6760,2177]]
         },
         "Spiral Stem": {
             icon: "spiral_stem.png",
